@@ -301,22 +301,12 @@ a[href="#about"]  {
   cursor: default;
 }
 
-/* .container.media-drop {
-  display: none;
-} */
-
 .container.media-learn {
   display: none;
 }
 
 .del-dropdown {
   display: none;
-  /* position: absolute;
-  bottom: 0;
-  left: 0;
-  top: 0;
-  right: 0;
-  opacity: 0; */
 }
 
 .container.media-drop {
@@ -569,5 +559,5 @@ a[href="#about"]  {
   .rank.token-container {
     margin-right: .7rem;
   }
-  
+
 }
