@@ -1,10 +1,6 @@
 const corsUrl = 'https://cors-anywhere.herokuapp.com/'
 const endUrl = 'https://api.coinranking.com/v2/coins'
 const apiKey = 'coinranking5a3d7bbac412656f0ef30a0703ac16787cb93a6527737789'
-// const queryString = new URLSearchParams({
-//   'x-access-token': apiKey,
-//   search: 'Bit'
-// });
 
 function getCoins () {
    fetch(`${corsUrl}${endUrl}`, 
