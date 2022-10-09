@@ -146,6 +146,8 @@ if(window.innerWidth <= 429) {
 }
 }
 
+window.addEventListener('resize', monitorQueryDrop);
+
 $(function() {
   getCoins();
 }) 
