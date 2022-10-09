@@ -7,3 +7,6 @@ OPEN IT IN A NEW TAB
 REQUEST TEMPORARY ACCESS TO CORS PROXY 
 
 ENJOY
+
+
+PAGES : https://lucdacook.github.io/API-capstone/
